@@ -18,18 +18,4 @@ BCCD: https://www.tensorflow.org/datasets/catalog/bccd
 
 
 
-TODOs:
 
-1. Generate Augmented Data (brightness, additive gaussian noise, etc...)
-
-2. Build a first model (architecture)
-
-3. Train and evaluate model on different augmentations
-
-4. Fine-tune model architecture and parameters
-
-5. repeat step 3.
-
-6. Final evaluation
-
-7. Presentation?
